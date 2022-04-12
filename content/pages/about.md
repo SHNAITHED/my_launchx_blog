@@ -1,21 +1,17 @@
 ---
-title: 'About me'
+title: 'Acerca de mí'
 menu:
   main:
     name: "AboutMe"
 ---
 
-## Who am I
+## Quién soy yo?!!
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, Soy Shivan y aquí puedes leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Hola Soy Iván Aguilar, pero muchos me ocnocen como "Shivan"
+> Me gusta la computación y la física, pero sobre todo me gusta crear cosas.
+> Me gusta mucho Star Wars.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**SHNAITHED** Aqui pondré una breve descripción de mí!!!
 
